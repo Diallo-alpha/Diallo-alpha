@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Apropos de moi:
 🛠️ Ce sur quoi je travaille actuellement<br>Développement d'applications web modernes en tant que développeur fullstack.<br><br>🤝 Je cherche à collaborer sur<br>Projets open-source utilisant Laravel, Django, Vue.js ou Angular.<br><br>Applications mobiles avec React Native ou Flutter.<br><br>🌱 Ce que j'apprends actuellement<br>Approfondir mes compétences en Java.<br><br>Découvrir les nouveaux outils et bonnes pratiques dans le développement backend avec .NET.<br><br>💬 Posez-moi des questions sur<br>Le développement fullstack avec JavaScript, Python et leurs frameworks associés (Django, Laravel, Vue.js).<br><br>La gestion des bases de données avec MySQL, PostgreSQL et MongoDB.<br><br>⚡ Fun fact<br>Je trouve toujours une solution créative pour simplifier les problèmes complexes en code.
 
 
